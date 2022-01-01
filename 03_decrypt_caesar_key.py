@@ -6,7 +6,6 @@ def encrypt(plaintext, k):
     for c in plaintext:
         i = alphabet.index(c)
         j = (i + k) % len(alphabet)
-        print(j, i, k)
         ciphertext.append(alphabet[j])
     return ''.join(ciphertext)
 
