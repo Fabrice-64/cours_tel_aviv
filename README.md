@@ -3,6 +3,9 @@
 ## Packages needed:
 - pycrypto
 - scapy
+- pycryptodome
+<br>
+Those packages are listed in requirements.txt
 
 ## Exercises:
 - 01: Use of python eval()
