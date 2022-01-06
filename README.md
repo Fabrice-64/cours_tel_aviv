@@ -1,9 +1,8 @@
 # Course on Cyber Security by the University of Tel Aviv (Edx)
 
 ## Packages needed:
-- pycrypto
 - scapy
-- pycryptodome
+- pycryptodome (pycrypto should be removed beforehand)
 <br>
 Those packages are listed in requirements.txt
 
@@ -14,3 +13,5 @@ Those packages are listed in requirements.txt
 - 04: Guess some letters in a text using character frequency (English language)
 - 05: Encrypt a string using XOR based cipher and a one time pad (keystream bit used only once)
 - 06: fake a RC4 encryption. Model is taken from https://github.com/manojpandey/rc4
+- 07: encrypt a message using RC4 with the library pycryptodome. Source in Python2: https://github.com/nemozqqz/pycrypto-sample/blob/master/RC4.py
+
