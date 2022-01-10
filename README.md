@@ -17,4 +17,4 @@ Those packages are listed in requirements.txt
 - 08: encrypt a message using AES and CBC, based on pycryptodome
 - 08_v2: a simplified version of the previous exer, dedicated to TAU exercise. Interesting as a breakdown of the previous exercise.
 - 09: counts the character frequency in a large string iot to detect whether it's in ENG language.
-- 10: crack through brute force an AES_CBC encrypted phone number
+- 10: crack through brute force an AES_CBC encrypted with a phone number, using all possibilities.

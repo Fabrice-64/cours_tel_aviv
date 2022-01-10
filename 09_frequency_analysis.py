@@ -48,7 +48,7 @@ def is_english(dict_chars):
 if __name__ == "__main__":
     if is_ascii(ENG_2):
         ENG_2 = ENG_2.lower()
-        count_char = Counter(ENG_1)
+        count_char = Counter(ENG_2)
         value = is_english(count_char)
         print(value)
     else:
