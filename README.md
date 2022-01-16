@@ -19,3 +19,5 @@ Those packages are listed in requirements.txt
 - 09: counts the character frequency in a large string iot to detect whether it's in ENG language.
 - 10: crack through brute force an AES_CBC encrypted with a phone number, using all possibilities.
 - 11: hashing library - initiation
+- 12: hash and crack algorithm (with collision)
+- 13: crack a weak md5
